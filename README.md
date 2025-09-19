@@ -1,5 +1,6 @@
 # Dont-open-huh
 Empty Repo i am just practicing bruh
+You just dont do what people say
 
 feat: implement cupcake distribution protocol 🧁 (fictional)
 
